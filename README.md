@@ -5,7 +5,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 ## Installation
 Öncelikle projeyi clonelayın.
 ```github
-https://github.com/PeaceMK/kodluyoruzilkrepo
+https://github.com/ensarsnmz/kodluyoruzilkrepo
 ```
 
 ## Usage
